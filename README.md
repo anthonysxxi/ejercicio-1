@@ -1,1 +1,5 @@
 instrucciones
+NUEVAS
+LINEAS
+EN
+README

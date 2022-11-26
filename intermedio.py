@@ -12,3 +12,4 @@ else :
      print('iguales')
     else :
      print('distintos')
+     #EJERCIO DE LA PRUEBA DE ENTRADA
