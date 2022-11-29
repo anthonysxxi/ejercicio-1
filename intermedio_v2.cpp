@@ -1,5 +1,4 @@
 #include <iostream.h>
-
 int main() {
   int a, b, c;
   printf("Ingrese el limite inferior: ");
@@ -11,5 +10,13 @@ int main() {
     printf("El punto medio esta en el intervalo <-12,24>");
   else
     printf("El punto medio esta fuera del intervalo <-12,24>");
+
+    printf("hmodificiado") 
+
   return 0;
+  //buentrabajo modificado 
+  //preuba 22
+  ///tercer intento
+  
+
 }
