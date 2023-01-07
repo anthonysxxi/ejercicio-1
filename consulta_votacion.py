@@ -10,3 +10,6 @@ else:
     print(nombre,'puede votar en el 2024')
 #despedida del programa
 print('vote sabiamente')
+
+print("ejercico modificado")
+#he agregado la linea 14
